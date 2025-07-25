@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         header.classList.toggle('scrolled', window.scrollY > 50);
     });
 
-    // --- NOVO: Funcionalidade do Menu Hambúrguer ---
+
     const hamburger = document.querySelector('.hamburger-menu');
     const navMenu = document.querySelector('.nav-menu');
 
